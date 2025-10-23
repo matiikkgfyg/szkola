@@ -13,3 +13,4 @@ eyeyey
 #######
 22;53 edycja koncowa
 ostateczna
+23;00
