@@ -5,4 +5,6 @@ ararawrar
 ###edrtets
 etesytesyt
 ####eywyyyw
-eyeyeye
+eyeyey
+##### edycja w domu
+23.10.2025
