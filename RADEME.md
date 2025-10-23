@@ -8,3 +8,5 @@ etesytesyt
 eyeyey
 ##### edycja w domu
 23.10.2025
+###### edycja chwile potem
+22;44
